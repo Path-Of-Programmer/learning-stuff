@@ -9,7 +9,7 @@
 -[Mysql for Beginners](https://www.udemy.com/course/mysql-dba-for-beginners)
 -[Jquery For Beginners](https://www.udemy.com/course/jquery-tutorial)
 -[C++ Complete](https://www.udemy.com/course/complete-csharp-masterclass)
--[.Net Core](https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart)
++[.Net Core](https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart)
 
 * Practical tasks
 
