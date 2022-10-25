@@ -2,6 +2,6 @@
 
 ## Lessons
 
-##Practical tasks
+## Practical tasks
 
 ## Learned lessons
