@@ -1,7 +1,7 @@
 # Welcome to Tomas organization's learning plan.
 
-## Lessons
+* Lessons
 
-## Practical tasks
+* Practical tasks
 
-## Learned lessons
+* Learned lessons
