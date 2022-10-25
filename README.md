@@ -1,6 +1,6 @@
-* Welcome to Tomas organization's learning plan.
+## Welcome to Tomas organization's learning plan.
 
-## Lessons
+# # Lessons
 1. [Complete Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 2. [CSS3 Animations](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
 3. [Javascript](https://www.udemy.com/course/the-complete-javascript-course)
@@ -11,6 +11,6 @@
 8. [C++ Complete](https://www.udemy.com/course/complete-csharp-masterclass)
 9. [.Net Core](https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart)
 
-## Practical tasks
+# # Practical tasks
 
-## Learned lessons
+# # Learned lessons
