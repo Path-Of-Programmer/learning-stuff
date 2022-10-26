@@ -1,4 +1,5 @@
 name: Proof HTML
+uses: anishathalye/proof-html@v1.4.0
 on:
   push:
   workflow_dispatch:
