@@ -23,7 +23,7 @@
 + MVC structuring.
 + .Net / C# language basics / .NET application development.
 + WinForms UI.
-+ Rest API microservices.
++ Rest API micro services.
 + NPM package management.
 + Typescript.
 + Angular framework (version 15 will be available soon).
