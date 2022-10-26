@@ -1,4 +1,35 @@
-# Welcome to Tomas organization's learning plan.
+# Welcome to Tomas organization's.
+
+## Learning plan.
++ Html5 structural elements.
++ CSS3 styling.
++ BEM - class naming convention.
++ CSS3 - animation capabilities.
++ Javascript - ECMA script 5 standard.
++ Fundamentals of functional programming.
++ GIT - working features of code versioning.
++ Template page creation / practical tasks.
++ JQuery - use (before the use of modern frameworks).
++ DevOps basics Apache local server.
++ PHP Basics.
++ OOP programming paradigm.
++ Basics of the SQL database query language.
++ Connecting SQL data predicates (extended data).
++ MySQL db.
++ Wordpress framework documentation.
++ Creation of Wordpress custom dynamic template.
++ Creation of Wordpress custom plugin.
++ Clean Code by Robert c Martin good practices.
++ MVC structuring.
++ .Net / C# language basics / .NET application development.
++ WinForms UI.
++ Rest API microservices.
++ NPM package management.
++ Typescript.
++ Angular framework (version 15 will be available soon).
++ Angular material UI.
++ NGRX helpers.
++ REDUX application state management.
 
 ## Lessons
 + [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
