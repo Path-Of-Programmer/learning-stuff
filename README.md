@@ -18,12 +18,12 @@
   + Learned tasks
 + CSS3 - animation capabilities.
   + Lessons
-   + [CSS3 Animations, Transforms and Transitions Ultimate Guide](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
+    + [CSS3 Animations, Transforms and Transitions Ultimate Guide](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
   + Practical tasks
   + Learned tasks
 + Javascript - ECMA script 5 standard.
   + Lessons
-   + [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
+    + [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
   + Practical tasks
   + Learned tasks
 + Fundamentals of functional programming.
