@@ -23,6 +23,7 @@
   + Learned tasks
 + Javascript - ECMA script 5 standard.
   + Lessons
+   + [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
   + Practical tasks
   + Learned tasks
 + Fundamentals of functional programming.
@@ -124,7 +125,7 @@
 
 ## Lessons
 
-+ [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
+
 + [PHP for Beginners - Become a PHP Master - CMS Project](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented)
 + [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript)
 + [MySQL Database Administration: Beginner SQL Database Design](https://www.udemy.com/course/mysql-dba-for-beginners)
