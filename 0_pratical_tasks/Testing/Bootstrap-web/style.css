@@ -14,8 +14,15 @@ h1 {
     line-height: 1.5; 
     font-weight: 900; 
 }
-/* Navigation Bar*/
+h3{
+    font-family: 'Montserrat-Black';
+    font-weight: 1000;
+}
 
+p{
+    color: #8f8f8f;
+}
+/* Navigation Bar*/
 .navbar{
     padding: 0 0 4.5rem;
     
@@ -34,14 +41,28 @@ h1 {
 }
 
 /* Download Button */
-
 .download-button{
     margin: 5% 3% 5% 0;
 }
 
 /* Tittle Image */
-
 .tittle-image{
     width: 60%;
     transform: rotate(25deg);
+}
+
+/* Features Section */
+#features{
+padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
 }
