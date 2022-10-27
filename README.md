@@ -18,6 +18,7 @@
   + Learned tasks
 + CSS3 - animation capabilities.
   + Lessons
+   + [CSS3 Animations, Transforms and Transitions Ultimate Guide](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
   + Practical tasks
   + Learned tasks
 + Javascript - ECMA script 5 standard.
