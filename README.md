@@ -5,14 +5,14 @@
   + Lessons
     + [The Complete 2022 Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp)
   + Practical tasks
-    + [Cat Web] (https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Html)
+    + [Cat Web](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Html)
     + [Bootstrap Web](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Testing/Bootstrap-web)
   + Learned tasks
 + CSS3 styling.
   + Lessons
     + [CSS3 Animations, Transforms and Transitions Ultimate Guide](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
   + Practical tasks
-    + [Cat Web Css] (https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Css)
+    + [Cat Web Css](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Css)
     + [Bootstrap Web](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Testing/Bootstrap-web)
   + Learned tasks
 
