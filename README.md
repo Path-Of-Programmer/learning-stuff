@@ -13,7 +13,7 @@
     + [CSS3 Animations, Transforms and Transitions](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
   + Practical tasks
     + [Cat Web Css](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Css)
-    + [Bootstrap Web](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Testing/Bootstrap-web)
+    + [Bootstrap Web Css](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Testing/Bootstrap-web)
   + Learned tasks
 
 + BEM - class naming convention.
@@ -133,16 +133,3 @@
   + Practical tasks
   + Learned tasks
 
-## Lessons
-
-
-
-
-
-
-
-
-
-## Practical tasks
-
-## Learned lessons
