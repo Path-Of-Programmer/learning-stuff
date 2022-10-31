@@ -10,7 +10,7 @@
   + Learned tasks
 + CSS3 styling.
   + Lessons
-    + [CSS3 Animations, Transforms and Transitions Ultimate Guide](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
+    + [CSS3 Animations, Transforms and Transitions](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
   + Practical tasks
     + [Cat Web Css](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Css)
     + [Bootstrap Web](https://github.com/Path-Of-Programmer/learning-stuff/tree/main/0_pratical_tasks/Testing/Bootstrap-web)
@@ -22,7 +22,7 @@
   + Learned tasks
 + CSS3 - animation capabilities.
   + Lessons
-    + [CSS3 Animations, Transforms and Transitions Ultimate Guide](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
+    + [CSS3 Animations, Transforms and Transitions](https://www.udemy.com/course/css3-animations-transforms-and-transitions-ultimate-guide)
   + Practical tasks
   + Learned tasks
 + Javascript - ECMA script 5 standard.
@@ -44,6 +44,7 @@
   + Learned tasks
 + JQuery - use (before the use of modern frameworks).
   + Lessons
+    + [The Complete jQuery Course: From Beginner To Advanced!](https://www.udemy.com/course/jquery-tutorial)
   + Practical tasks
   + Learned tasks
 + DevOps basics Apache local server.
@@ -52,6 +53,7 @@
   + Learned tasks
 + PHP Basics.
   + Lessons
+    + [PHP for Beginners - Become a PHP Master - CMS Project](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented)
   + Practical tasks
   + Learned tasks
 + OOP programming paradigm.
@@ -68,10 +70,12 @@
   + Learned tasks
 + MySQL db.
   + Lessons
+    + [MySQL Database Administration: Beginner SQL Database Design](https://www.udemy.com/course/mysql-dba-for-beginners)
   + Practical tasks
   + Learned tasks
 + Wordpress framework documentation.
   + Lessons
+    + [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript)
   + Practical tasks
   + Learned tasks
 + Creation of Wordpress custom dynamic template.
@@ -92,6 +96,8 @@
   + Learned tasks
 + .Net / C# language basics / .NET application development.
   + Lessons
+    + [Complete C# Masterclass](https://www.udemy.com/course/complete-csharp-masterclass)
+    + [.NET 6 Web API & Entity Framework Core Jumpstart](https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart)
   + Practical tasks
   + Learned tasks
 + WinForms UI.
@@ -130,12 +136,12 @@
 ## Lessons
 
 
-+ [PHP for Beginners - Become a PHP Master - CMS Project](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented)
-+ [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript)
-+ [MySQL Database Administration: Beginner SQL Database Design](https://www.udemy.com/course/mysql-dba-for-beginners)
-+ [The Complete jQuery Course: From Beginner To Advanced!](https://www.udemy.com/course/jquery-tutorial)
-+ [Complete C# Masterclass](https://www.udemy.com/course/complete-csharp-masterclass)
-+ [.NET 6 Web API & Entity Framework Core Jumpstart](https://www.udemy.com/course/net-core-31-web-api-entity-framework-core-jumpstart)
+
+
+
+
+
+
 
 ## Practical tasks
 
